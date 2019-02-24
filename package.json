@@ -1,0 +1,27 @@
+{
+  "name": "50shades_music_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/50ShadesOfTelegram/50ShadesMusicBot.git"
+  },
+  "keywords": [
+    "music",
+    "telegram",
+    "bot"
+  ],
+  "author": "Sharon Umute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/50ShadesOfTelegram/50ShadesMusicBot/issues"
+  },
+  "homepage": "https://github.com/50ShadesOfTelegram/50ShadesMusicBot#readme",
+  "dependencies": {
+    "npm": "^6.8.0"
+  }
+}
